@@ -1,7 +1,7 @@
 # A collection of \*.ipynb related to the main PhD project
 Supporting information for *Burakova et al, J. Biomol. NMR, 2022*
 
-Content description:
+## Content description:
 * Linewidths measurements in 3D
     - description here
 
