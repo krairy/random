@@ -23,7 +23,7 @@ Definitions
 | H_bond_X    | Length of the H-bond where the query resiue is donor. Measured from the PDB file. X takes 1 and 2      |
 | H_bond_XX   | Length of the H-bond where the query resiue is acceptor. Measured from the PDB file. X takes 1 and 2   |
 | H_bond_min  | Length of the shortest of the four H-bonds identified by DSSP                                          |
-| O_Y         | Residue number with an oxygen within 3.9 Angstrom from the N of the query residue. Y takes from 1 to 4 |
+| O_Y         | Number of the residue containing an oxygen within 3.9 Angstrom from the N of the query residue. Y takes from 1 to 4 |
 | NO_len_Y    | Length between the nitrogen of the query residue and the oxygen Y. Y takes 1 to 4.                     |
 | Atom_ID     | Atom name. Takes HN, N, CA or CB                                                                       |
 | Val         | Chemical shift                                                                                         |
